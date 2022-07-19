@@ -1,0 +1,12 @@
+.content{
+    padding: 0 12rem;
+}
+.header-nav{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.header-nav__list{
+    list-style: none;
+}

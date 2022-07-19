@@ -1,0 +1,13 @@
+.content{
+    padding: 0 12rem;
+}
+.header-nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.header-nav__list{
+    list-style: none;
+}

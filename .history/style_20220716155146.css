@@ -1,0 +1,18 @@
+.content{
+    padding: 0 12rem;
+}
+.header-nav{
+    width: 100%;
+    min-height:7rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 2rem;
+}
+.header-nav__list{
+    list-style: none;
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding: 3rem 0;
+}

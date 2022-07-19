@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+.nav-container{
+    background-color: #fffffa;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+    height: 96px;
+}
+.wrapper{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 7.2rem;
+}
+nav ul{
+    display: flex;
+}
+.logo{
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 96px;
+color: #000000;
+}
